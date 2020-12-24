@@ -26,3 +26,19 @@ Launching on 25th December. Stay Tuned!
 - [Using ATT&CK for Cyber Threat Intelligence Training](https://attack.mitre.org/resources/training/cti/) - This training by Katie Nickels and Adam Pennington of the ATT&CK team will help you learn how to apply ATT&CK and improve your threat intelligence practices. 
 
 - [AttackIQ Academy Badges](https://academy.attackiq.com) - AttackIQ Academy was launched in direct response to the evolution of attackers and their methods in becoming more targeted, sophisticated, and automated.
+
+### Cyber Training
+
+- [NorthSec Trainings](https://www.nsec.io/training-sessions/) - NorthSec is pleased to announce its high-quality training sessions, given by the absolute best experts in their field. We strive to provide you with the highest level of exclusive content, giving you a unique opportunity to improve your applied security knowledge during NorthSec from Tuesday May 24 to Friday May 28.
+
+- [Live Online Cyber Security Training](https://www.sans.org/event/sans-2021-live-online) - SANS 2021 - Live Online Virtual, US Eastern | Mon, Mar 22 - Sat, Mar 27, 2021
+SANS is committed to delivering high-quality cyber security training so you can keep your skills sharp and stay ahead of cyber threats. Join us for interactive training during SANS 2021 - Live Online (March 22-27, EDT), and receive relevant, applicable training from wherever you are. Choose your course and register now for practical training taught by top industry practitioners.
+
+### Fun Events
+
+- [Advent of Cyber](https://www.tryhackme.com/christmas) - Advent of Cyber is an event aimed at helping users get started with cyber security, by releasing beginner friendly security exercises every day leading up to Christmas.
+
+- [2020 SANS Holiday Hack Challenge](https://holidayhackchallenge.com/2020/) -Welcome to the 2020 SANS Holiday Hack Challenge, featuring KringleCon 3: French Hens! This year, we're hosting the event at Santa's newly renovated castle at the North Pole.
+
+
+
