@@ -82,8 +82,27 @@ Also available on [AMAZON](https://www.amazon.in/Black-Hat-Go-Programming-Pentes
 
 - [Building Secure & Reliable Systems](https://landing.google.com/sre/books/) - Best Practices for Designing, Implementing and Maintaining Systems (O'Reilly) By Heather Adkins, Betsy Beyer, Paul Blankinship, Ana Oprea, Piotr Lewandowski, Adam Stubblefield. 
 
--[The Beginner’s Guide to Information Security](https://www.amazon.com/Beginners-Guide-Information-Security-Kickstart-ebook/dp/B01JTDDSAM) - By Limor Elbaz - Offers insight and resources to help readers embark on a career in one of the 21st century’s most important—and potentially lucrative—fields. 
+- [The Beginner’s Guide to Information Security](https://www.amazon.com/Beginners-Guide-Information-Security-Kickstart-ebook/dp/B01JTDDSAM) - By Limor Elbaz - Offers insight and resources to help readers embark on a career in one of the 21st century’s most important—and potentially lucrative—fields. 
 
+### Podcasts
+
+- [Unsupervised Learning](https://danielmiessler.com/podcast/) - Exploring the intersection of security, technology, and society—and what might be coming next.
+
+- [Darknet Diaries](https://darknetdiaries.com/episode/) - True stories from the dark side of the Internet. This is a podcast about hackers, breaches, shadow government activity, hacktivism, cybercrime, and all the things that dwell on the hidden parts of the network. 
+
+- [7 Minute Security](https://7ms.us/) - A weekly infosec podcast about pentesting, blue teaming and building a career in security.
+
+- [Getting Into Infosec](https://gettingintoinfosec.com/) - Stories of how people got jobs in Cybersecurity.
+
+### Random
+
+- [SANS Faculty Free Tools](https://www.sans.org/media/free/free-faculty-tools.pdf?msc=sans-free-lp)
+
+- [Penetration testing tools Cheatsheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) - A quick reference high level overview for typical penetration testing engagements. 
+
+- [Building a Home Lab](https://systemoverlord.com/2017/10/24/building-a-home-lab-for-offensive-security-basics.html) - A home lab for Offensive Security & Security Research.
+
+- [Beginner Reverse Engineering](https://www.reddit.com/r/ReverseEngineering/comments/hg0fx/a_modest_proposal_absolutely_no_babies_involved/) - Reddit collection of beginner information on getting into Reverse Engineering.
 
 For those who wanna break their heads reading random stuff, here you go:
 
@@ -97,24 +116,5 @@ For those who wanna break their heads reading random stuff, here you go:
 
 - [SANS NewsBites](https://www.sans.org/newsletters/newsbites) - A semiweekly high-level executive summary of the most important news articles that have been published on computer security during the last week. Each news item is very briefly summarized and includes a reference on the web for detailed information.
 
-## Podcasts
-
-- [Unsupervised Learning](https://danielmiessler.com/podcast/) - Exploring the intersection of security, technology, and society—and what might be coming next.
-
-- [Darknet Diaries](https://darknetdiaries.com/episode/) - True stories from the dark side of the Internet. This is a podcast about hackers, breaches, shadow government activity, hacktivism, cybercrime, and all the things that dwell on the hidden parts of the network. 
-
-- [7 Minute Security](https://7ms.us/) - A weekly infosec podcast about pentesting, blue teaming and building a career in security.
-
-- [Getting Into Infosec](https://gettingintoinfosec.com/) - Stories of how people got jobs in Cybersecurity.
-
-## Random
-
-- [SANS Faculty Free Tools](https://www.sans.org/media/free/free-faculty-tools.pdf?msc=sans-free-lp)
-
-- [Penetration testing tools Cheatsheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) - A quick reference high level overview for typical penetration testing engagements. 
-
-- [Building a Home Lab](https://systemoverlord.com/2017/10/24/building-a-home-lab-for-offensive-security-basics.html) - A home lab for Offensive Security & Security Research.
-
-- [Beginner Reverse Engineering](https://www.reddit.com/r/ReverseEngineering/comments/hg0fx/a_modest_proposal_absolutely_no_babies_involved/) - Reddit collection of beginner information on getting into Reverse Engineering.
 
 Keep Searching, Keep Reading. The potential is unlimited!
